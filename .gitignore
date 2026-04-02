@@ -9,7 +9,6 @@ env/
 *.sqlite3
 db.sqlite3
 media/
-static_root/
 .DS_Store
 *.log
 *.pot
