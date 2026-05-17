@@ -241,7 +241,7 @@ Before going to production:
 mkdir -p media/photos media/receipts media/generated_cards
 ```
 
-**Card generation fails** → Check that DejaVu fonts are installed:
+**Card generation fails** → Check that DejaVu fonts are installed
 ```bash
 # Ubuntu/Debian
 sudo apt-get install fonts-dejavu-core
